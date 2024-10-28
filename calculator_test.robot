@@ -21,3 +21,4 @@ Multiplication Test
 Division Test
     ${result}=    Divide    ${NUM1}    ${NUM2}
     Should Be Equal As Numbers    ${result}    2
+
