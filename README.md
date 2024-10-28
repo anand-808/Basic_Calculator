@@ -14,8 +14,6 @@ A simple calculator project built using Python and Robot Framework for automated
 
 - Python 3.x
 - Robot Framework
-- Pywinauto (for GUI automation, if applicable)
-
 
 ## Usage
 
